@@ -1,4 +1,5 @@
-[![MasterHead](https://cdn.dribbble.com/userupload/7081682/file/original-238e7e91860bb10bb7d62e08615e64c5.gif)]
+
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/userupload/7081682/file/original-238e7e91860bb10bb7d62e08615e64c5.gif" alt="android" width="1080"  border-radius: 50% /> </a>
 
 <h1 align="center">Hi 👋, I'm Shakti Prasad Nahak</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
